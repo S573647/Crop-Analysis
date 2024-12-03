@@ -23,3 +23,11 @@ This project will help formers to find suitable crops based on soil and environm
 4. Measurement of Performance Metrices
 ```
 
+### 1. Data Collection
+```
+import numpy as np 
+import matplotlib.pyplot as plt
+import pandas as pd 
+dataframe = pd.read_csv('crop_recommendation.csv')
+```
+
