@@ -1,4 +1,4 @@
-# Crop-Analysis
+# Crop-Analysis using Machine Learning
 This project will help formers to find suitable crops based on soil and environment attributes analysis.
 ### Python Virtual Environment Create/Activate/Install
 #### Create python virtual environment
